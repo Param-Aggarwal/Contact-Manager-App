@@ -31,7 +31,8 @@ npm run dev
 ---
 
 ## Project Structure
-![Project Structue](screenshots/Project-Structure.png)
+<img src="screenshots/Project-Structure.png" width="250"/>
+
 ---
 
 ##  Assumptions & Constraints
@@ -44,26 +45,26 @@ npm run dev
 
 ## UI Screenshots
 
-###  Homepage
-![Contact Manager App Homepage](screenshots/Contact-Manager-App-Homepage.png)
+### Homepage  
+<img src="screenshots/Contact-Manager-App-Homepage.png" height="300"/>
 
-### Add Contact Modal
-![Add Contact Modal](screenshots/Add-Contact-Modal.png)
+### Add Contact Modal  
+<img src="screenshots/Add-Contact-Modal.png" height="300"/>
 
-### ❗ Add Contact Form Validation
-![Add Contact Form Validation](screenshots/Add-Contact-Form-Validation.png)
+### Add Contact Form Validation  
+<img src="screenshots/Add-Contact-Form-Validation.png" height="300"/>
 
-### Batch Select Contacts
-![Batch Select Contacts](screenshots/Batch-Select-Contacts.png)
+### Batch Select Contacts  
+<img src="screenshots/Batch-Select-Contacts.png" height="300"/>
 
-### Batch Delete Confirmation
-![Batch Delete Confirmation](screenshots/Batch-Delete-confirmation.png)
+### Batch Delete Confirmation  
+<img src="screenshots/Batch-Delete-confirmation.png" height="300"/>
 
-### Delete Confirmation (Single)
-![Delete Confirmation](screenshots/Delete-Confirmation.png)
+### Delete Confirmation (Single)  
+<img src="screenshots/Delete-Confirmation.png" height="300"/>
 
-### Search Results
-![Search Result](screenshots/Search-Result.png)
+### Search Results  
+<img src="screenshots/Search-Result.png" height="300"/>
 
-### 📱 Responsive Layout View
-![Responsive Layout](screenshots/Responsive-Layout.png)
+### Responsive Layout View  
+<img src="screenshots/Responsive-Layout.png" height="300"/>
