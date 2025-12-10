@@ -25,9 +25,20 @@ A feature-rich contact management application built using **React**, **Redux Too
 ---
 
 ## Installation & Running Locally
+```bash
+# Clone the repository
+git clone https://github.com/Param-Aggarwal/Contact-Manager-App.git
+
+# Navigate into the project
 cd contact-manager-app
+
+# Install dependencies
 npm install
+
+# Start local dev server
 npm run dev
+
+```
 ---
 
 ## Project Structure
