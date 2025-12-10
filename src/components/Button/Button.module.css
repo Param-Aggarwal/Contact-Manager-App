@@ -1,0 +1,35 @@
+.button {
+  border-radius: 4px;
+  padding: 8px 18px;
+  border: none;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  transition: background-color 0.15s ease, border-color 0.15s ease;
+}
+
+.button:disabled {
+  opacity: 0.65;
+  cursor: default;
+}
+
+.primary {
+  background-color: #006EFA;
+  color: #FFFFFF;
+}
+
+.secondary {
+  background-color: #FFFFFF;
+  color: #006EFA;
+  border: 1px solid #006EFA;
+}
+
+.danger {
+  background-color: #E11D48;
+  background: var(--Color-Red-red-tint-1, #E11D48);
+  color: #FFFFFF;
+}

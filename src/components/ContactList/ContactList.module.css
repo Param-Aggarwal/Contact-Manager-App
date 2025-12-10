@@ -1,0 +1,51 @@
+.wrapper {
+  width: 100%;
+  overflow-x: auto;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 0;
+  font-size: 14px;
+  min-width: 720px;
+  background-color: #FFFFFF;
+}
+
+thead tr {
+  background-color: #F8FAFC;
+}
+
+th,
+td {
+  padding: 10px 12px;
+  text-align: left;
+  border-bottom: 1px solid #E2E8F0;
+  border-right: 1px solid #E2E8F0;
+}
+
+th:last-child,
+td:last-child {
+  border-right: none;
+}
+
+.checkboxCol {
+  width: 40px;
+}
+
+.actionsCol {
+  width: 120px;
+}
+
+.empty {
+  margin-top: 16px;
+  text-align: center;
+  color: #6B7280;
+}
+
+@media (max-width: 768px) {
+  .table {
+    min-width: 600px;
+    font-size: 13px;
+  }
+}
